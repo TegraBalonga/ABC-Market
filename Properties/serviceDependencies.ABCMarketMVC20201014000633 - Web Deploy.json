@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.onprem",
+      "connectionId": "ABC_Market",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
